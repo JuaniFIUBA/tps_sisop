@@ -1,0 +1,8 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/juani/sisop/fork'
+cc -ggdb3 -O2 -Wall -Wextra -std=c11 -Wvla -D_DEFAULT_SOURCE  -c -o primes.o primes.c
+cc   primes.o   -o primes
+cc -ggdb3 -O2 -Wall -Wextra -std=c11 -Wvla -D_DEFAULT_SOURCE  -c -o xargs.o xargs.c
+cc   xargs.o   -o xargs
+make: Leaving directory '/home/juani/sisop/fork'
+ 
