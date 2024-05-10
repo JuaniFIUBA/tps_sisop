@@ -1,0 +1,5 @@
+MIN: Se refiere al número mínimo de caracteres en el buffer que deberan estar en el mismo, antes de que se procese el input programa. Si se establece un valor para MIN y se ingresan menos caracteres que ese número, el input se bloqueará hasta que se alcance o supere el número mínimo de caracteres especificados.
+
+TIME: Es el tiempo que se esperara para recibir el input. Si se establece un valor para TIME y se comienza a recibir entrada, la lectura de entrada finalizará una vez que se agote el tiempo especificado, incluso si no se ha alcanzado el número mínimo de caracteres especificado por MIN. Las unidades utilizadas son 0.1 segundos
+
+Se utilizo la bibliografía recomendada por la cátedra, particularmente de este link: https://www.gnu.org/software/libc/manual/html_node/Noncanonical-Input.html

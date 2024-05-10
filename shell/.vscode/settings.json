@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "exec.h": "c",
+        "types.h": "c",
+        "defs.h": "c",
+        "stdarg.h": "c",
+        "utils.h": "c",
+        "freecmd.h": "c",
+        "printstatus.h": "c",
+        "readline.h": "c",
+        "runcmd.h": "c",
+        "hist.h": "c",
+        "stdio.h": "c",
+        "builtin.h": "c",
+        "unistd.h": "c",
+        "termios.h": "c",
+        "assert.h": "c"
+    }
+}
